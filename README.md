@@ -1,2 +1,2 @@
 # InfiniteMatrixStarter
- Infinite matrix tunnel game, CS 415 Spring 2024
+ Infinite matrix tunnel game with projectiles, rotating obsctacles, and healthpacks!
